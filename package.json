@@ -1,0 +1,25 @@
+{
+  "name": "labo02",
+  "version": "1.0.0",
+  "description": "demo labo 02 ou encore services02",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alain-clg/services02.git"
+  },
+  "author": "Alain Pilon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alain-clg/services02/issues"
+  },
+  "homepage": "https://github.com/alain-clg/services02#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11",
+    "nodemon": "^2.0.14"
+  }
+}
